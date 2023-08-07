@@ -1,6 +1,6 @@
 FROM xhofe/alist:latest
 LABEL MAINTAINER="i@nn.ci"
-WORKDIR /opt/alist/
+WORKDIR /root/alist/
 
 EXPOSE 5244
 
